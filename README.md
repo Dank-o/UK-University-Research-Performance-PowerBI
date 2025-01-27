@@ -82,6 +82,6 @@ I used Power BI to create an intuitive, interactive dashboard with filtering and
 - Identify strengths and weaknesses within institutions and across disciplines.
 - Evaluate overall performance against similar institutions using size and comprehensiveness filters.
 
-This project demonstrates my ability to analyse complex datasets, design user-focused solutions, and present actionable insights. It strengthened my skills in stakeholder collaboration, data visualisation, and problem-solving—core consulting competencies I look forward to developing further in the Graduate Programme.
+This project demonstrates my ability to analyse complex datasets, design user-focused solutions, and present actionable insights.
 
 </div>
