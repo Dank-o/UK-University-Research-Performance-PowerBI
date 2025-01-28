@@ -9,7 +9,7 @@ For instance, at the University of Cambridge, the Anthropology and Development S
 
 This user-friendly dashboard supports stakeholders, including administrators and researchers, by enabling meaningful comparisons across institutions and disciplines.
 
-A more detailed description of the project, including charts of the distributions and models described below, can be found [here](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/Detailed%20project%20description.pdf).
+A more detailed description of the project, including charts of the distributions and models described below, can be found [here](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/detailed_description.ipynb).
 
 ### **Defining the Problem**
 
