@@ -11,6 +11,8 @@ This user-friendly dashboard supports stakeholders, including administrators and
 
 A more detailed description of the project, including charts of the distributions and models described below, can be found [here](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/detailed_description.ipynb).
 
+If you have Power BI, the dashboard can be viewed by downloading the [PBIX](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/REF%20Dashboard.pbix) and [XLSX](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/REF%202021%20Results%20-%20All%20-%20NO%20HEADER.xlsx) files.
+
 ### **Defining the Problem**
 
 University administrators need a system to assess and compare departmental research performance to highlight top performers and identify areas for improvement. Similarly, researchers and graduate students benefit from a data-driven approach to identifying institutions excelling in their chosen disciplines. Existing ranking systems often fail to address these needs due to their reliance on indirect metrics (e.g., reputation, legacy awards) and inadequate evaluation of discipline-specific performance—often with a clear bias towards STEM-focused metrics.
