@@ -3,7 +3,7 @@
 
 ### **Overview**
 
-I developed and presented a scoring system through an interactive Power BI dashboard to evaluate the research performance of UK higher education institutions (HEIs). This project utilised data from the 2021 Research Excellence Framework (REF 2021) to identify underperforming research departments and guide strategic decision-making.
+I developed and presented a ranking system through an interactive Power BI dashboard to evaluate the research performance of UK higher education institutions (HEIs), utilising data from the 2021 Research Excellence Framework (REF 2021). The dashboard can guide university administrators in strategic decision-making:
 
 For instance, at the University of Cambridge, the Anthropology and Development Studies, Area Studies, and Classics departments rank in the 19th, 30th, and 35th percentiles respectively, compared to all UK universities. This analysis suggests prioritising these departments for review, with Area Studies and Classics demonstrating particular weakness in impact, while Anthropology and Development Studies consistently underperforms across all assessed areas: outputs, environment, and impact.
 
