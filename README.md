@@ -9,9 +9,16 @@ For instance, at the University of Cambridge, the Anthropology and Development S
 
 This user-friendly dashboard supports stakeholders, including administrators and researchers, by enabling meaningful comparisons across institutions and disciplines.
 
-A more detailed description of the project, including charts of the distributions and models described below, can be found [here](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/detailed_description.ipynb).
+In the process of designing the scoring system, I evaluated the approach taken by other consultancies, who weight GPA by size to produce a "research power" score. My models demonstrate that this approach is misguided, as size almost perfectly correlates with research power. Furthermore, modeling the relationship between scores and size for non-specialist institutions (comprising 76% of the data) using a power function indicates a strong fit (R-squared ≈ 79%).
+
+A more detailed description of the project, including charts of the models and distributions described, can be found [here](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/detailed_description.ipynb).
 
 If you have Power BI, the dashboard can be viewed by downloading the [PBIX](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/REF%20Dashboard.pbix) and [XLSX](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/REF%202021%20Results%20-%20All%20-%20NO%20HEADER.xlsx) files.
+
+<div style="text-align: center; margin-right: 70px;">
+    <img src="quick_demo.gif" alt="A brief demo of the dashboard showing its filtering functions and interactions between the visuals." style="width: 20cm;">
+    <p style="text-align: center;"><em>A brief demonstration of the dashboard showing its filtering functions and interactions between the visuals.</em></p>
+</div>
 
 ### **Defining the Problem**
 
