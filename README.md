@@ -9,9 +9,9 @@ For instance, at the University of Cambridge, the Anthropology and Development S
 
 This user-friendly dashboard supports stakeholders, including administrators and researchers, by enabling meaningful comparisons across institutions and disciplines.
 
-In the process of designing the scoring system, I evaluated the approach taken by other consultancies, who weight GPA by size to produce a "research power" score. My models demonstrate that this approach is misguided, as size almost perfectly correlates with research power. Furthermore, modeling the relationship between scores and size for non-specialist institutions (comprising 76% of the data) using a power function indicates a strong fit (R-squared ≈ 79%).
+In the process of designing the scoring system, I evaluated the approach taken by major consultancies, that weight GPA by size to produce a "research power" score. My models demonstrate that this approach is flawed, as size almost perfectly correlates with research power. Furthermore, modeling the relationship between raw scores and size for non-specialist institutions (comprising 76% of the data) using a power function indicates a strong fit (R-squared ≈ 79%), and hence, size is already implicated in performance. Although universities often cite their research power rankings as evidence of excellence, I have developed a more appropriate metric that more accurately reflects research quality.
 
-A more detailed description of the project, including charts of the models and distributions described, can be found [here](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/detailed_description.ipynb).
+A more detailed description of the project, including charts of the models and distributions described, can be found [here](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/detailed_description.ipynb). Please continue reading below for a brief description of the project.
 
 If you have Power BI, the dashboard can be viewed by downloading the [PBIX](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/REF%20Dashboard.pbix) and [XLSX](https://github.com/Dank-o/UK-University-Research-Performance-PowerBI/blob/main/REF%202021%20Results%20-%20All%20-%20NO%20HEADER.xlsx) files.
 
